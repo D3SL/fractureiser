@@ -184,7 +184,7 @@ investigating. Order of operations:
 3. Netstat shows massive port consumption via the hostile jar file's PID
 4. Identifying the malicious javaw.exe running libwebgl64.jar confirmed malware
 
-From here Tzalumen was instrumental in assisting with the initial reverse engineering of
+From here Stephen 'Thor' Pilcher was instrumental in assisting with the initial reverse engineering of
 the byte[] obfuscated code and manually capturing a complete set of files from the remote
 destinations.
 
